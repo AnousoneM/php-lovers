@@ -9,19 +9,27 @@
 
 Cette exercice aura la structure suivante :
 - **assets**
-    - *style.css*
-    - *script.js*
-    - img
-- *index.php*
-- *lovers.php*
-- *user.php*
+    - **css**
+        - *style.css*
+    - **js**
+        - *script.js*
+    - **img**
+- **controllers**
+    - *index_controller.php*
+    - *lovers_controller.php*
+    - *user_controller.php*
+- **views**
+    - *lovers.php*
+    - *user.php*
+- index.php
+
 
 ## MISE EN PLACE DES DONNEES SOUS FORMES DE TABLEAUX
 > Mise en place des données du site : Les fameux Lovers <3
 
 Faire un **tableau à 2 dimensions** qui contiendra les informations suivantes :
 
--  lastname => 'DOE'
+- lastname => 'DOE'
 - firstname => 'John'
 - age => '33ans'
 - gender => 'homme'
