@@ -3,7 +3,7 @@
 **Pour les exercices qui suivent** :  
 
 - Bien respecter *les normes W3C*.  
-- Ne pas oublier le CSS : ***Bootstrap*** de rigueur dans vos exercices !  
+- Ne pas oublier le CSS : ***Bootstrap*** de rigueur dans vos exercices ! Ou autres Frameworks ou san ;).
 
 ## Un site de rencontre Made with "LOVE"
 
@@ -72,7 +72,7 @@ Les contraintes :
 > Il est temps de tomber amoureux ...
 
 Faire un **Navbar** de type :  
-**Bonjour John <3 / NOS CELIBATAIRES / INSCRIPTION**
+**Bonjour John <3 / NOS CELIBATAIRES / MES INFORMATIONS**
 
 Afficher les célibataires selon le type de recherche préalablement enregistré : HOMME ou FEMME (Souvenez-vous des cookies!).  
 Les profils seront affichés sous forme de **Card** avec les informations suivantes :
