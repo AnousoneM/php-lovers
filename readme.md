@@ -21,16 +21,16 @@ Cette exercice aura la structure suivante :
 
 Faire un **tableau à 2 dimensions** qui contiendra les informations suivantes :
 
-- 0 => lastname => 'DOE'
-    - firstname => 'John'
-    - age => '33ans'
-    - gender => 'homme'
-    - mail => 'mail@mail.com'
-    - zipcode => '76600'
-    - picture => 'monimage.jpg' **!! ATTENTION !!, il va falloir mettre le nom de la photo que vous allez enregistrer dans votre *assets/img***
-    - description => 'Je suis un homme qui ...'
+-  lastname => 'DOE'
+- firstname => 'John'
+- age => '33ans'
+- gender => 'homme'
+- mail => 'mail@mail.com'
+- zipcode => '76600'
+- picture => 'monimage.jpg' **!! ATTENTION !!, il va falloir mettre le nom de la photo que vous allez enregistrer dans votre *assets/img***
+- description => 'Je suis un homme qui ...'
 
-Vous allez devoir créer **12 profils** pour le site : Hommes **(index de 0 à 5)** et Femmes **(index de 6 à 11)**.
+Vous allez devoir créer **20 profils** pour le site : Hommes **10** et Femmes **10**.
 
 ## INDEX.PHP
 > Création d'un formulaire de pre-inscription sur votre site de rencontre car c'est ici que tout commence ...
